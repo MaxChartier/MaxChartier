@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a third-year student at EFREI, an engineering school in Paris.  
+I mainly work with **Python** and **JavaScript**.
+
 <!--
 **MaxChartier/MaxChartier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
